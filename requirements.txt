@@ -1,5 +1,6 @@
 numpy
 qiskit
+qiskit-aer-gpu
 seaborn
 matplotlib
 pandas
